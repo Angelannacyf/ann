@@ -1,0 +1,16 @@
+#image{
+ max-width:100%;
+  display:block;
+  height:auto;
+   margin:auto;
+  
+}
+#img-div{
+  background:rgb(255,180,190,0.5);
+}
+#tribute-info{
+  color:red;
+ text-align:center;
+  
+  
+}
